@@ -27,13 +27,7 @@ My core focus is on backend engineering, full-stack applications, machine learni
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anish-Nadar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Nadar&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anish-Nadar)
 
 ---
 
